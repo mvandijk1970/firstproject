@@ -1,5 +1,5 @@
 package com.betterexample;
-
+// hallo
 public class SpecialTestClass extends AnotherTestClass {
     public int y = 0;
 
